@@ -1,0 +1,21 @@
+{
+  "name": "day02",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "hankj <hankuanjuan@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "components-font-awesome": "^4.6.3"
+  }
+}
